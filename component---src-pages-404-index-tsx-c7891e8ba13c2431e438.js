@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkSNinjo_Card=self.webpackChunkSNinjo_Card||[]).push([[911],{6625:function(e,n,a){a.r(n);var i=a(1883);n.default=()=>{"undefined"!=typeof window&&(0,i.navigate)("/")}}}]);
+//# sourceMappingURL=component---src-pages-404-index-tsx-c7891e8ba13c2431e438.js.map
